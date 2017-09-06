@@ -1,0 +1,18 @@
+route_id,route_long_name,route_short_name,agency_id,route_desc,説明(英語),運行対象日,route_color,route_text_color,標準地域コード
+1,循環線,,1,,,,e65100,,http://statdb.nstac.go.jp/lod/sac/C18207
+2,幹線,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207
+3,鯖江南・新横江線,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207
+4,神明線,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207
+5,片上・北中山線,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207
+6,立待線,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207
+7,吉川線,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207
+8,豊線,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207
+9,中河・北中山線,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207
+10,河和田線,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207
+11,通学便 市内高校ルート,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207
+12,通学便 片上・北中山ルート,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207
+13,通学便 立待ルート,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207
+14,通学便 吉川ルート,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207
+15,通学便 豊ルート,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207
+16,通学便 中河・北中山ルート,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207
+17,通学便 河和田ルート,,1,,,,,,http://statdb.nstac.go.jp/lod/sac/C18207

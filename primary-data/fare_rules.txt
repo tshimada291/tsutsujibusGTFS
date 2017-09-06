@@ -1,0 +1,2 @@
+料金ルールID,fare_id,route_id,origin_id,destination_id,contains_id,標準地域コード
+1,1,,,,,http://statdb.nstac.go.jp/lod/sac/C18207

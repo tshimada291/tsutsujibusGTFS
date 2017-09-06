@@ -2,7 +2,7 @@
 福井県鯖江市のつつじバスのGTFS版データです。
 鯖江市の公開するオープンデータを基に作成しています。
 
-feed url：（準備中）
+feed url：https://tshimada291.github.io/tsutsujibusGTFS/tsutsujibus-gtfs.zip
 
 ## 適用例
 * [GTFS Viewer](http://www1.ttn.ne.jp/~shima/ict/opendata/apps/gtfs-viewer/)（日本国内で公開されているGTFSデータ・標準的なバス情報フォーマットデータの表示）

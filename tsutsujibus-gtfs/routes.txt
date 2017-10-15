@@ -1,18 +1,18 @@
-route_id,route_long_name,route_short_name,agency_id,route_desc,route_color,route_text_color
-1,循環線,,1,,e65100,ffffff
-2,幹線,,1,,c2185b,ffffff
-3,鯖江南・新横江線,,1,,097138,ffffff
-4,神明線,,1,,b2ebf2,
-5,片上・北中山線,,1,,3949ab,ffffff
-6,立待線,,1,,c5e1a5,
-7,吉川線,,1,,ffff8d,
-8,豊線,,1,,f48fb1,ffffff
-9,中河・北中山線,,1,,9c27b0,ffffff
-10,河和田線,,1,,f9a825,ffffff
-11,通学便 市内高校ルート,,1,,795548,ffffff
-12,通学便 片上・北中山ルート,,1,,3949ab,ffffff
-13,通学便 立待ルート,,1,,c5e1a5,
-14,通学便 吉川ルート,,1,,ffff8d,
-15,通学便 豊ルート,,1,,f48fb1,ffffff
-16,通学便 中河・北中山ルート,,1,,9c27b0,ffffff
-17,通学便 河和田ルート,,1,,f9a825,ffffff
+route_id,route_long_name,route_short_name,agency_id,route_type,route_desc,route_color,route_text_color
+1,循環線,,1,3,,e65100,ffffff
+2,幹線,,1,3,,c2185b,ffffff
+3,鯖江南・新横江線,,1,3,,97138,ffffff
+4,神明線,,1,3,,b2ebf2,
+5,片上・北中山線,,1,3,,3949ab,ffffff
+6,立待線,,1,3,,c5e1a5,
+7,吉川線,,1,3,,ffff8d,
+8,豊線,,1,3,,f48fb1,ffffff
+9,中河・北中山線,,1,3,,9c27b0,ffffff
+10,河和田線,,1,3,,f9a825,ffffff
+11,通学便 市内高校ルート,,1,3,,795548,ffffff
+12,通学便 片上・北中山ルート,,1,3,,3949ab,ffffff
+13,通学便 立待ルート,,1,3,,c5e1a5,
+14,通学便 吉川ルート,,1,3,,ffff8d,
+15,通学便 豊ルート,,1,3,,f48fb1,ffffff
+16,通学便 中河・北中山ルート,,1,3,,9c27b0,ffffff
+17,通学便 河和田ルート,,1,3,,f9a825,ffffff

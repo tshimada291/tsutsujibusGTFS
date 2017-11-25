@@ -3,6 +3,7 @@
 鯖江市の公開するオープンデータを基に作成しています。
 
 feed url：https://tshimada291.github.io/tsutsujibusGTFS/tsutsujibus-gtfs.zip
+（[google feedvalidator](https://developers.google.com/transit/tools?hl=ja) 検証済み）
 
 ## 適用例
 * [GTFS Viewer](http://www1.ttn.ne.jp/~shima/ict/opendata/apps/gtfs-viewer/)（日本国内で公開されているGTFSデータ・標準的なバス情報フォーマットデータの表示）
@@ -15,6 +16,7 @@ feed url：https://tshimada291.github.io/tsutsujibusGTFS/tsutsujibus-gtfs.zip
 * 「つつじバス・バス停データ（KML）」、[つつじバスWeb APIデータ](http://www.city.sabae.fukui.jp/users/tutujibus/web-api/web-api.html)（[CC BY](https://creativecommons.org/licenses/by/2.0/)）
 
 ### 更新情報
+* 2017.11.25 一部データ修正
 * 2017.09.06 公開
 * 2017.09.05 作成
 

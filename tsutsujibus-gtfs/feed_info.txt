@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+T.Shimada,https://tshimada291.github.io/tsutsujibusGTFS/,ja,20170905,20180331,2017v1

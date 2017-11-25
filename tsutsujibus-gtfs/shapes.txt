@@ -1,4 +1,4 @@
-shape_id,shape_pt_lat,shape_pt_lon,shape_pt_sequence,shape_dist_trabeled
+shape_id,shape_pt_lat,shape_pt_lon,shape_pt_sequence,shape_dist_traveled
 1,35.943451,136.187912,1,0
 1,35.94339,136.187103,2,73
 1,35.943642,136.185013,3,264

@@ -1,2 +1,2 @@
-﻿agency_name,agency_id,agency_url,agency_phone,agency_fare_url
-つつじバス,1,http://www.city.sabae.fukui.jp/users/tutujibus/,0778-51-2200,
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+4000020182079_1,つつじバス,http://www.city.sabae.fukui.jp/users/tutujibus/,Asia/Tokyo,ja,0778-51-2200,http://www.city.sabae.fukui.jp/users/tutujibus/price/price.html,

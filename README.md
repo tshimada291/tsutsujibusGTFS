@@ -16,7 +16,7 @@ feed url：https://tshimada291.github.io/tsutsujibusGTFS/tsutsujibus-gtfs.zip
 * つつじバス・バス停データ（KML）・時刻表データなど、[つつじバスWeb APIデータ](http://www.city.sabae.fukui.jp/users/tutujibus/web-api/web-api.html)（[CC BY](https://creativecommons.org/licenses/by/2.0/)）
 
 ### 更新情報
-* 2018.05.28 2018年度版データ公開
+* 2018.05.28 2018年度版データ公開（一部shapeは、区間・経路変更前の旧版を使用）
 * 2018.04.22 2017年度版データの修正（日付修正など）、translations.txt追加
 * 2017.11.25 一部データ修正
 * 2017.09.06 公開

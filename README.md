@@ -5,9 +5,6 @@
 feed url：https://tshimada291.github.io/tsutsujibusGTFS/tsutsujibus-gtfs.zip
 （[google feedvalidator](https://developers.google.com/transit/tools?hl=ja) 検証済み）
 
-## 適用例
-* [GTFS Viewer](http://www1.ttn.ne.jp/~shima/ict/opendata/apps/gtfs-viewer/)（日本国内で公開されているGTFSデータ・標準的なバス情報フォーマットデータの表示）
-
 ## ライセンス
 基としたオープンデータと同じく，[CC BY](https://creativecommons.org/licenses/by/2.1/jp/) を適用します。
 
